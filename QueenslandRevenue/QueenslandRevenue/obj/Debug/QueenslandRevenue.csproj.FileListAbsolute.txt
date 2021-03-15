@@ -1,0 +1,7 @@
+C:\Users\Christopher.Dugdale\Documents\UNI\Programming Fundamentals\Assignment 4\QueenslandRevenue\QueenslandRevenue\bin\Debug\QueenslandRevenue.exe.config
+C:\Users\Christopher.Dugdale\Documents\UNI\Programming Fundamentals\Assignment 4\QueenslandRevenue\QueenslandRevenue\bin\Debug\QueenslandRevenue.exe
+C:\Users\Christopher.Dugdale\Documents\UNI\Programming Fundamentals\Assignment 4\QueenslandRevenue\QueenslandRevenue\bin\Debug\QueenslandRevenue.pdb
+C:\Users\Christopher.Dugdale\Documents\UNI\Programming Fundamentals\Assignment 4\QueenslandRevenue\QueenslandRevenue\obj\Debug\QueenslandRevenue.csprojResolveAssemblyReference.cache
+C:\Users\Christopher.Dugdale\Documents\UNI\Programming Fundamentals\Assignment 4\QueenslandRevenue\QueenslandRevenue\obj\Debug\QueenslandRevenue.csproj.CoreCompileInputs.cache
+C:\Users\Christopher.Dugdale\Documents\UNI\Programming Fundamentals\Assignment 4\QueenslandRevenue\QueenslandRevenue\obj\Debug\QueenslandRevenue.exe
+C:\Users\Christopher.Dugdale\Documents\UNI\Programming Fundamentals\Assignment 4\QueenslandRevenue\QueenslandRevenue\obj\Debug\QueenslandRevenue.pdb
